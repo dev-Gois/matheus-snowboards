@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dev-Gois.github.io/matheus-snowboards/sitemap.xml
